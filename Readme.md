@@ -11,3 +11,9 @@ git clone https://github.com/yourusername/typescript-playground.git
 cd typescript-playground
 npm install
 ```
+
+## command to use
+tsc
+
+## output js folder
+dist/
